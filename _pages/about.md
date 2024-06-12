@@ -8,6 +8,7 @@ profile:
   align: right
   image: profile.jpg
   image_circular: true # crops the image to make it circular
+  image_class: profile-pic
   more_info: >
     <p>E3-1, KAIST, Daejeon, South Korea</p>
     <p>hmchoi@casys.kaist.ac.kr</p>
