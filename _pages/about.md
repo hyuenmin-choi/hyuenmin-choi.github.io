@@ -7,7 +7,7 @@ subtitle: <a href='https://casyslab.kaist.ac.kr/home'>CASYS Lab, KAIST
 profile:
   align: right
   image: profile.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>E3-1, KAIST, Daejeon, South Korea</p>
     <p>hmchoi@casys.kaist.ac.kr</p>
