@@ -2,22 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://casyslab.kaist.ac.kr/home'>CASYS Lab
+subtitle: <a href='https://casyslab.kaist.ac.kr/home'>CASYS Lab, KAIST
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office : E3-1, KAIST, Daejeon, South Korea</p>
-    <p>Contact : hmchoi@casys.kaist.ac.kr</p>
+    <p>E3-1, KAIST, Daejeon, South Korea</p>
+    <p>hmchoi@casys.kaist.ac.kr</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-# About Me
+## About Me
 
 I am Senior undergraduate student in **School of Computing** at **KAIST**.
 
