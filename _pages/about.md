@@ -34,4 +34,5 @@ I am Senior undergraduate student in **School of Computing** at **KAIST**.
 
 ## Experiences
 
-2022.8 - present: Undergraduate Student Intern, **CASYS Lab** (Prof. Jongse Park)
+2022.8 - 2024.8 (Expected): Undergraduate Student Intern, **CASYS Lab** (Prof. Jongse Park)
+2024.2 - 2024.6 : KAIST Undergraduate Research Program (advisor : Prof. Jongse Park)
