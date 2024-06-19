@@ -26,7 +26,7 @@ I am Senior undergraduate student in **School of Computing** at **KAIST**.
 
 - LLM Inference Serving System Acceleration & Optimization
 - Distributed & Large Scale System
-- LLM accelerators (especially PIM)
+- LLM accelerators (especially NPU, PIM)
 
 ## Education
 
