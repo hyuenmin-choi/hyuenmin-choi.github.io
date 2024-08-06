@@ -46,8 +46,8 @@ Jaehong Cho, Minsu Kim, <u>Hyunmin Choi</u>, Guseul Heo, Jongse Park
 
 **LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**  
 Jaehong Cho, Minsu Kim, <u>Hyunmin Choi</u>, Jongse Park  
-*ISCA Workshop on ML for Computer Architecture and Systems (MLArchSys), 2024* [Paper](#)
+*ISCA Workshop on ML for Computer Architecture and Systems (MLArchSys), 2024* [Paper](https://openreview.net/pdf?id=LI2IUfI8km)
 
 **NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**  
 Guseul Heo, Sangyeop Lee, Jaehong Cho, <u>Hyunmin Choi</u>, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, Jongse Park  
-*ASPLOS, 2024* [Paper](#)
+*ASPLOS, 2024* [Paper](https://arxiv.org/abs/2403.00579)
