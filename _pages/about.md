@@ -31,6 +31,7 @@ I am Senior master student in **School of Computing** at **KAIST**.
 ## Education
 
 2020.03 - 2024.08 : Undergraduate in **School of Computing**, **KAIST**
+
 2024.09 - Present : Master program in **School of Computing**, **KAIST**
 
 ## Experiences
@@ -43,7 +44,7 @@ I am Senior master student in **School of Computing** at **KAIST**.
 
 **LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**  
 Jaehong Cho, Minsu Kim, <u>Hyunmin Choi</u>, Guseul Heo, Jongse Park  
-*IISWC, 2024* [Paper](#) (To Appear)
+*IISWC, 2024* [Paper](https://arxiv.org/abs/2408.05499) (*Best Paper Award & Distinguished Artifact Award*)
 
 **LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**  
 Jaehong Cho, Minsu Kim, <u>Hyunmin Choi</u>, Jongse Park  
