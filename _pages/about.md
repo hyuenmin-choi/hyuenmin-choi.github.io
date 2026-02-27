@@ -42,7 +42,7 @@ I am Senior master student in **School of Computing** at **KAIST**.
 ## Publication
 
 **LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure**
-Jaehong Cho*, <u>Hyunmin Choi*</u>, Guseul Heo, Jongse Park  ( *Equal Contribution )
+Jaehong Cho*, <u>Hyunmin Choi*</u>, Guseul Heo, Jongse Park  ( *Equal Contribution)
 *ISPASS, 2026* [Paper](https://arxiv.org/abs/2602.23036)
 
 **LLMServingSim2.0: A Unified Simulator for Heterogeneous Hardware and Serving Techniques in LLM Infrastructure**
