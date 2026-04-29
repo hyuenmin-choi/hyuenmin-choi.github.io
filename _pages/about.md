@@ -41,26 +41,26 @@ I am Senior master student in **School of Computing** at **KAIST**.
 
 ## Publication
 
-**LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure**
-Jaehong Cho\*, <u>Hyunmin Choi\*</u>, Guseul Heo, Jongse Park  (\*Equal Contribution)
-*ISPASS, 2026* [Paper](https://arxiv.org/abs/2602.23036) (*Best Paper Award*)
-
-**A Simulator for LLM inference systems exploiting CXL memory pools**
-Jinghan Huang, Hongkun Zeng, Mike Montano, Jaehong Cho, <u>Hyunmin Choi</u>, Jinin So, Junhyeok Im, Handeok Lee, Jongse Park, Nam Sung Kim
+**A Simulator for LLM inference systems exploiting CXL memory pools**<br>
+Jinghan Huang, Hongkun Zeng, Mike Montano, Jaehong Cho, <u>Hyunmin Choi</u>, Jinin So, Junhyeok Im, Handeok Lee, Jongse Park, Nam Sung Kim<br>
 *IEEE Computer Architecture Letters (CAL), 2026* (To Appear)
 
-**LLMServingSim2.0: A Unified Simulator for Heterogeneous Hardware and Serving Techniques in LLM Infrastructure**
-Jaehong Cho, <u>Hyunmin Choi</u>, Jongse Park
+**LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure**<br>
+Jaehong Cho\*, <u>Hyunmin Choi\*</u>, Guseul Heo, Jongse Park (\*Equal Contribution)<br>
+*ISPASS, 2026* [Paper](https://arxiv.org/abs/2602.23036) (*Best Paper Award*)
+
+**LLMServingSim2.0: A Unified Simulator for Heterogeneous Hardware and Serving Techniques in LLM Infrastructure**<br>
+Jaehong Cho, <u>Hyunmin Choi</u>, Jongse Park<br>
 *IEEE Computer Architecture Letter (CAL), 2025* [Paper](https://arxiv.org/abs/2511.07229)
 
-**LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**  
-Jaehong Cho, Minsu Kim, <u>Hyunmin Choi</u>, Guseul Heo, Jongse Park  
+**LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**<br>
+Jaehong Cho, Minsu Kim, <u>Hyunmin Choi</u>, Guseul Heo, Jongse Park<br>
 *IISWC, 2024* [Paper](https://arxiv.org/abs/2408.05499) (*Best Paper Award & Distinguished Artifact Award*)
 
-**LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**  
-Jaehong Cho, Minsu Kim, <u>Hyunmin Choi</u>, Jongse Park  
+**LLMServingSim: A Simulation Infrastructure for LLM Inference Serving Systems**<br>
+Jaehong Cho, Minsu Kim, <u>Hyunmin Choi</u>, Jongse Park<br>
 *ISCA Workshop on ML for Computer Architecture and Systems (MLArchSys), 2024* [Paper](https://openreview.net/pdf?id=LI2IUfI8km)
 
-**NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**  
-Guseul Heo, Sangyeop Lee, Jaehong Cho, <u>Hyunmin Choi</u>, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, Jongse Park  
+**NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**<br>
+Guseul Heo, Sangyeop Lee, Jaehong Cho, <u>Hyunmin Choi</u>, Sanghyeon Lee, Hyungkyu Ham, Gwangsun Kim, Divya Mahajan, Jongse Park<br>
 *ASPLOS, 2024* [Paper](https://arxiv.org/abs/2403.00579)
