@@ -13,14 +13,14 @@ profile:
     <p>E3-1, KAIST, Daejeon, South Korea</p>
     <p>hmchoi@casys.kaist.ac.kr</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 ---
 
 ## About Me
 
-I am Senior master student in **School of Computing** at **KAIST**.
+I am a Ph.D. student in the **School of Computing** at **KAIST**, advised by **Prof. Jongse Park** in **CASYS Lab**. I received my master's degree from KAIST in August 2026 and began my Ph.D. in September 2026, continuing in the same lab with Prof. Park.
 
 ## Research Interests
 
@@ -30,9 +30,11 @@ I am Senior master student in **School of Computing** at **KAIST**.
 
 ## Education
 
-2020.03 - 2024.08 : Undergraduate in **School of Computing**, **KAIST**
+2020.03 - 2024.08 : Bachelor's degree in **School of Computing**, **KAIST**
 
-2024.09 - Present : Master program in **School of Computing**, **KAIST**
+2024.09 - 2026.08 : Master's degree in **School of Computing**, **KAIST**
+
+2026.09 - Present : Ph.D. program in **School of Computing**, **KAIST** (Advisor: Prof. Jongse Park, CASYS Lab)
 
 ## Experiences
 
@@ -41,9 +43,13 @@ I am Senior master student in **School of Computing** at **KAIST**.
 
 ## Publication
 
+**Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems**<br>
+Wonung Kim\*, <u>Hyunmin Choi</u>\*, Minsu Kim, Jaehong Cho, Yeongwook Kim, Jongse Park (\*Equal Contribution)<br>
+*arXiv preprint, 2026* [Paper](https://arxiv.org/abs/2608.24650)
+
 **A Simulator for LLM inference systems exploiting CXL memory pools**<br>
 Jinghan Huang, Hongkun Zeng, Mike Montano, Jaehong Cho, <u>Hyunmin Choi</u>, Jinin So, Junhyeok Im, Handeok Lee, Jongse Park, Nam Sung Kim<br>
-*IEEE Computer Architecture Letters (CAL), 2026* (To Appear)
+*IEEE Computer Architecture Letters (CAL), 2026* [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11509274)
 
 **LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure**<br>
 Jaehong Cho\*, <u>Hyunmin Choi\*</u>, Guseul Heo, Jongse Park (\*Equal Contribution)<br>
