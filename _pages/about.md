@@ -47,6 +47,10 @@ I am a Ph.D. student in the **School of Computing** at **KAIST**, advised by **P
 Hyunsu Ye, <u>Hyunmin Choi</u>, Jaehong Cho, Jaeseo Lee, Hyeongseok Gwak, Joohee Lee, Donguk Moon, Woosuk Chung, Hoshik Kim, Kiwan Maeng, Jongse Park<br>
 *arXiv preprint, 2026* [Paper](https://arxiv.org/abs/2611.30417)
 
+**Toward Agent-Driven Pathfinding for Heterogeneous LLM Serving Systems**<br>
+Wonung Kim\*, <u>Hyunmin Choi</u>\*, Jongse Park (\*Equal Contribution)<br>
+*MICRO Workshop on Composable Heterogeneous Architecture for Scalable Machine Learning (CHASM), 2026* [Paper](https://jongse-park.github.io/files/paper/2026-chasm-pathfinding.pdf) [Talk](https://jongse-park.github.io/files/slide/2026-micro_chasm-pathfinding.pdf)
+
 **Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems**<br>
 Wonung Kim\*, <u>Hyunmin Choi</u>\*, Minsu Kim, Jaehong Cho, Yeongwook Kim, Jongse Park (\*Equal Contribution)<br>
 *HPCA, 2027* [Paper](https://arxiv.org/abs/2608.24650)
