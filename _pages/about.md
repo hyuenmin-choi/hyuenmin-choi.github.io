@@ -43,13 +43,13 @@ I am a Ph.D. student in the **School of Computing** at **KAIST**, advised by **P
 
 ## Publication
 
-**Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems**<br>
-Wonung Kim\*, <u>Hyunmin Choi</u>\*, Minsu Kim, Jaehong Cho, Yeongwook Kim, Jongse Park (\*Equal Contribution)<br>
-*HPCA, 2027* [Paper](https://arxiv.org/abs/2608.24650)
-
 **ANOR: Scaling Sparse Attention with a GPU-PNM Computing Hierarchy**<br>
 Hyunsu Ye, <u>Hyunmin Choi</u>, Jaehong Cho, Jaeseo Lee, Hyeongseok Gwak, Joohee Lee, Donguk Moon, Woosuk Chung, Hoshik Kim, Kiwan Maeng, Jongse Park<br>
 *arXiv preprint, 2026* [Paper](https://arxiv.org/abs/2611.30417)
+
+**Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems**<br>
+Wonung Kim\*, <u>Hyunmin Choi</u>\*, Minsu Kim, Jaehong Cho, Yeongwook Kim, Jongse Park (\*Equal Contribution)<br>
+*HPCA, 2027* [Paper](https://arxiv.org/abs/2608.24650)
 
 **A Simulator for LLM inference systems exploiting CXL memory pools**<br>
 Jinghan Huang, Hongkun Zeng, Mike Montano, Jaehong Cho, <u>Hyunmin Choi</u>, Jinin So, Junhyeok Im, Handeok Lee, Jongse Park, Nam Sung Kim<br>
